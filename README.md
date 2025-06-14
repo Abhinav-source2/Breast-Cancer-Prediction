@@ -123,14 +123,6 @@ This project focuses on detecting breast cancer using deep learning techniques, 
 
 ---
 
-## 🧪 Sample Output (Grad-CAM)
-
-| Original Image | Grad-CAM Overlay |
-|----------------|------------------|
-| ![Input](assets/input_sample.png) | ![GradCAM](assets/gradcam_sample.png) |
-
----
-
 ## 🧰 How to Use
 
 ### 🔸 Clone this repository
